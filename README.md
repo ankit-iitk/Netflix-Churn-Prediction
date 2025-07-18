@@ -13,7 +13,13 @@ Customer churn is a critical metric for subscription-based businesses. Retaining
 - Gender  
 - Number of Profiles  
 - Subscription Type  
-- Device Used  
+- Device Used
+- Watch Hours
+- Monthly fee
+- Last Login Days
+- Region
+- Payment method
+- Average Watch time per day
 
 ---
 
